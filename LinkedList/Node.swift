@@ -13,8 +13,8 @@ public class Node<T>{
 	var next: Node?
 	weak var previous: Node?
 
-	public init(value: T){
-		self.value = value
+//	public init(value: T){
+//		self.value = value
 	}
 
 }

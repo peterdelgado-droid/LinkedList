@@ -9,7 +9,7 @@ import SwiftUI
 
 @main
 struct LinkedListApp: App {
-	///this needs to be reviewed
+	///this needs to 
     var body: some Scene {
         WindowGroup {
             ContentView()
